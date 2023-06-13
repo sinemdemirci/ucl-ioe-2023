@@ -1,0 +1,358 @@
+---
+title: "Pre-service Teachers’ Understanding of Sustainability: Evidence from Türkiye"
+author: "Dr Sinem Demirci"
+date: "2023-06-14"
+date-format: "MMMM D[<sup style='font-size:65%;'>th</sup>], YYYY"
+format: 
+  revealjs:
+      theme: slide-style.scss
+      slide-number: true
+      incremental: true
+      chalkboard: true
+---
+
+
+## Hello!
+
+::: {style="text-align: center; font-size: 28px"}
+```{=html}
+<img src="img/sinem.jpeg" alt="A headshot of a woman with curly, short, shoulder-length hair with green eyes."
+  style="width: 280px; height: 280px; border-radius: 50%; margin-top: 5px; border: 1px solid whitesmoke; padding: 5px;">
+```
+<h1 style="font-size: 34px; margin-top: 20px;line-height: 0.5;">
+
+Sinem Demirci, PhD
+
+</h1>
+
+<h1 style="font-size: 34px; margin-top: 20px; line-height: 1.0;">
+
+Postdoctoral Visiting Researcher/Lecturer - UCL
+
+</h1>
+
+{{< fa link >}}  <a href = "http://sinemdemirci.github.io" style="font-size: 28px; line-height: 0.5;">sinemdemirci.github.io</a>\
+
+{{< fa brands github >}} <a href = "http://github.com/sinemdemirci" style="font-size: 28px; line-height: 0.5;">sinemdemirci</a>\
+
+{{< fa brands twitter >}} <a href = "http://twitter.com/sinemmdemirci" style="font-size: 28px; line-height: 0.5;">sinemmdemirci</a>\
+
+{{< fa brands linkedin >}} <a href = "https://www.linkedin.com/in/drsinemdemirci/" style="font-size: 28px; line-height: 0.5;">drsinemdemirci</a>\
+
+{{< fa envelope >}} <a href = "mailto:s.demirci@ucl.ac.uk" style="font-size: 28px; line-height: 0.5;">s.demirci@ucl.ac.uk</a>\
+
+:::
+
+## Today's Outline
+
+::: {style="font-size: 32px"}
+
+In this talk, I will be briefly talking about
+
+1. The Place of Education for Sustainable Development in Türkiye's Teacher Education Context
+2. Setting the Scene: Study Context
+3. Turkish Pre-service Teachers' Perspectives on Sustainability
+4. Brief discussion on pre-service teachers' understanding of sustainability as an implication of SDG 4.7.
+
+:::
+
+##
+### ESD in Türkiye's Teacher Education Context
+::: {style="font-size: 32px"}
+
+- A centralised education system
+- Teacher education programmes are offered by higher education institutions(Bourn & Soysal, 2021; TEDMEM, 2021)
+- 4-year undergraduate programmes determined by Council of Higher Education (2018)
+- Several (under)graduate ESD courses in teacher education programmes has been offered more than 10 years sporadically (Tuncer, 2008; Tuncer & Sahin, 2016).
+- *Sustainable Development and Education* was included as one of the Teaching Specialty Elective Courses by Council of Higher Education in 2018.
+- Since then, the number of universities offer this course is increasing.
+:::
+
+## Setting the Scene: Study Context
+
+::: columns
+::: {.column width="50%"}
+::: nonincremental
+::: {style="font-size: 24px"}
+::: fragment
+- Two complementary studies' evidences are presented and discussed in terms of SDG 4.7.
+- The aim of these studies can be summarized as following:
+  - assess pre service teachers’ knowledge of sustainability
+  - explore pre-service teachers’ self-efficacy beliefs on integrating sustainability into their profession and daily lives.
+- Data is collected from a public university in Ankara, capital city of Türkiye.
+
+:::
+:::
+:::
+:::
+
+::: {.column width="50%"}
+::: nonincremental
+::: {style="font-size: 24px"}
+::: fragment
+
+- Pre-service teachers were voluntarily participated from
+  - Early Childhood Education, 
+  - Elementary Science Education
+  - Elementary Mathematics Education
+  - Physics Education
+  - Chemistry Education
+  - Foreign Language Education
+  - Computer Education and Instructional Technology
+
+:::
+:::
+:::
+:::
+:::
+
+##
+### Data Analysis -I
+::: {style="font-size: 28px"}
+::: fragment
+::: nonincremental
+
+Basic qualitative research design (Merriam & Tisdell, 2015) was chosen to be able to explore understandings of pre-service teachers in depth.
+
+In data analysis, we intended to emerge profiles of pre-service teachers that reflect their understandings on sustainability.
+
+- If the participants specify the dimensions of sustainability and explain the interrelationships among them, we categorized them as **informed as explicit**
+- If the participants did not specify the dimensions of sustainability and the interrelationships among them but they explained all of these in an indirect way, we categorized them as **informed as implicit**
+- If the participants specified the dimensions of sustainability but did not explain them and their interrelationships among them, we categorized them as **non-informed**
+:::
+:::
+
+::: fragment
+::: nonincremental
+After profiles were emerged, profiles were compared by their department and two researchers were coded the interviews.
+:::
+:::
+:::
+
+##
+#### Pre-service Teachers' Understanding of Sustainability - I
+
+::: {style="font-size: 22px"}
+
+A semi-structured interview was conducted to understand how pre-service teachers perceive the dimensions of sustainability (Macer, 2004) from **economical**, **social**, **cultural**, and **ecological** perspectives as well as the **interactions** among these dimensions.
+
+|**Department/Major**                   |**Frequency** (*n*)
+|:---------                             |:--------------:
+|Early Childhood Education (ECE)        | 10
+|Elementary Science Education (ESE)     | 10
+|Elementary Mathematics Education (EME) | 9
+|**Total**                              | **29**
+
+
+The sustainability courses available in the Faculty of Education were as following:
+
+| Course                                              | Must Elective       | Offered to
+| :----------------------------                       | :-----------:       | :--------:
+| Education and Awareness for Sustainability          | Elective Course     | All
+| Climate Change Education for Sustainability         | Elective Course     | All   
+| Laboratory Applications in Environmental Education  | Elective Course     | All
+| Environmental Sciences                              | Must Course         | ESE
+| Basic Science                                       | Must Course         | ECE
+| Teaching Science in Early Childhood                 | Must Course         | ECE
+
+:::
+
+##
+#### Pre-service Teachers' Understanding of Sustainability - II
+::: {style="font-size: 26px"}
+::: fragment
+::: nonincremental
+- 4 ESE students were **informed as explicit** who
+  - enrolled must and elective courses and 
+  - participated in several ESD seminars
+  - expressed their special interest to teach ESD
+  
+:::
+:::
+
+::: fragment
+::: nonincremental
+- 3 ECE students and 1 EME student were **informed as implicit** who
+  - enrolled at least one ESD elective courses
+:::
+:::
+
+::: fragment
+::: nonincremental
+- **Non-informant** pre service teachers (*n* = 22) tried to explain sustainability by using its dictionary definition in a detached way.
+  - Some of them were enrolled an elective ESD course
+:::
+:::
+:::
+
+##
+#### Pre-service Teachers' Understanding of Sustainability - III - Across Deparments
+::: {layout="[[1,1], [1]]"}
+![Elementary Science Education](img/ese-interaction.png)
+
+![Early Childhood Education](img/ece-interaction.png){style="display: block; margin: auto; width: 102%;"}
+
+![Elementary Mathematics Education](img/eme-interaction.png){style="display: block; margin: auto; width: 90%;"}
+
+:::
+
+##
+#### Data Analysis - II - Pre-service Teachers' Self-Efficacy Beliefs
+::: {style="font-size: 24px"}
+::: nonincremental
+
+- Data was collected from pre-service teachers who enrolled a general elective course on sustainability.
+- A self-efficacy scale was administered to 113 university students and its construct validity evidences can be found in our <a href="https://files.eric.ed.gov/fulltext/EJ1180990.pdf"> article </a> {{< fa link >}}(Demirci and Teksöz, 2017)
+
+|**Department/Major**                             |**Frequency** (*n*)
+|:---------                                       |:--------------:
+|Foreign Language Education                       | 12
+|Elementary Mathematics Education                 | 9
+|Early Childhood Education                        | 4
+|Computer Education and Instructional Technology  | 3
+|Elementary Science Education                     | 2
+|Chemistry Education                              | 1
+|Physics Education                                | 1
+|**Total**                                        | **32**
+:::
+:::
+
+##
+### Pre-service Teachers' Self-Efficacy Beliefs - Daily Life
+::: {style="font-size: 18px"}
+
+
+| ITEM                                                                                                        |Disagree           | Neutral | Agree     |
+| :-------------------------------------------------------------------------------------------------          | :---------------: | :-----: | :-------: |
+| I can always find better ways to explain sustainability to other people.                                    |   15.38           |  15.38  |   69.23   |
+| **I have skills and knowledge that would allow me to explain sustainability concepts to people.**           |**15.38**          |**23.08**| **61.54** |
+| I can always find better ways to integrate sustainability in my daily life.                                 |   15.38           |  23.08  |   61.53   |
+| **I have skills and knowledge that would allow me to aggregate sustainability context into my daily life.** | **15.38**         |**30.77**| **53.85** |
+| I am typically able to answer people's sustainability questions.                                            |   15.38           |  38.46  |   46.15   |
+| **Even when I try very hard, I won't be able to explain sustainability to other people.**                   |**38.46**          |**23.08**| **38.46** |
+| I don't know what to do to persuade people to have a sustainable lifestyle.                                 |   30.77           |  30.77  |   38.46   |
+| **I find it difficult to explain to people why a sustainable lifestyle is better.**                         |**46.15**          |**30.77**| **23.08** |
+| I am not very effective in including sustainability principles in my daily life.                            |   61.54           |  23.08  |   15.38   |
+| **I do not know what to do about integrating sustainability principles into my daily life.**                |**61.54**          |**30.77**| **7.69**  |
+:::
+
+##
+### Pre-service Teachers' Self-Efficacy Beliefs - Profession
+::: {style="font-size: 18px"}
+| ITEM                                                                                                                                  | Disagree | Neutral | Agree   |
+| :-----------------------------------------------------------------------------------------------------------------                    | :------: | :-----: | :-----: |
+| I know the necessary steps to include the sustainability context into my profession effectively.                                      |  15.38   |  23.08  |  61.54  |
+| **I can always find better ways to integrate sustainability into my profession.**                                                     | **7.69** |**30.77**|**61.54**|
+| I understand sustainability concepts well enough to be effective in integrating them into my profession.                              |   7.69   |  38.46  |  53.85  |
+| **I wonder if I have the necessary skills to integrate sustainability context into my profession.**                                   | **15.38**|**38.46**|**46.15**|
+| Even when I try very hard, I won't be able to include sustainability to enrich my career  as effectively as I do with most subjects.  |   61.54  |  7.69   | 30.77   |
+| **I cannot include sustainability context in my business life because it needs to be done by specially trained people.**              |**53.85** |**15.38**|**30.77**|
+| Even when I try very hard, I won't be able to include sustainability into my daily life.                                              |  53.85   |  23.08  |  23.08  |
+:::
+
+##
+### Implications of These Findings on SDG 4.7 Perspectives - I
+
+::: columns
+::: {.column width="30%"}
+::: {style="font-size: 24px"}
+
+<a title="United Nations, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Sustainable_Development_Goal_04QualityEducation.svg"><img width="512" alt="Sustainable Development Goal 04QualityEducation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sustainable_Development_Goal_04QualityEducation.svg/512px-Sustainable_Development_Goal_04QualityEducation.svg.png"></a>
+
+
+::: {style="font-size: 20px"}
+<a href="https://commons.wikimedia.org/wiki/File:Sustainable_Development_Goal_04QualityEducation.svg"> *United Nations*</a>, Public domain, via Wikimedia Commons</span>
+
+:::
+:::
+:::
+
+
+::: {.column width="70%"}
+::: nonincremental
+::: {style="font-size: 24px"}
+::: fragment
+
+- To ensure that all learners acquire the knowledge and skills needed to promote sustainable development through education for sustainable development, we need to increase our capacity to the extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education and (d) student assessment (Indicator 4.7.1).
+- To examine the role of embedding sustainability concepts into teacher education programme, we conducted two complementary studies exploring pre-service teachers'
+  - understandings of sustainability through the ecological, economic, social and cultural aspects
+  - self-efficacy beliefs about integration sustainability concepts into their teaching and daily life.
+  
+:::
+:::
+:::
+:::
+:::
+  
+  
+##
+### Implications of These Findings on SDG 4.7 Perspectives - II
+::: columns
+::: {.column width="70%"}
+::: nonincremental
+::: {style="font-size: 20px"}
+::: fragment
+
+- In the first study, we identified that elementary science pre-service teachers who enrolled both must and elective ESD courses had a more complex understanding than their peers
+  - We also observed that enrolling an elective course might not be enough to develop a sound understanding about the interactions between those dimensions.
+- In the second study, we assessed self-efficacy beliefs of pre-service teachers who enrolled a general elective course on sustainability
+  - We identified that even though the pre-service teachers feels relatively confident that they are able to embrace a sustainability lifestyles, nearly 40% of them remained undecided on how to integrate sustainability into their teaching.
+- Overall, the results of these studies implied that ESD embedded teacher education programme (e.g., discipline specific courses & embedding sustainability concepts into other modules/lectures) have a potential to promote pre-service teachers' level of knowledge as well as self-efficacy beliefs which are two of the important constructs influence teaching which, in turn, achieving SDG 4.7.
+  - Some available studies (e.g.,Cockerell, 2020; Ferguson & Roofe, 2020) argued in a similar vein that more explicit and coordinated efforts are needed to achieve SDG 4.
+
+:::
+:::
+:::
+:::
+  
+::: {.column width="30%"}
+::: {style="font-size: 24px"}
+
+<a title="United Nations, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Sustainable_Development_Goal_04QualityEducation.svg"><img width="512" alt="Sustainable Development Goal 04QualityEducation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sustainable_Development_Goal_04QualityEducation.svg/512px-Sustainable_Development_Goal_04QualityEducation.svg.png"></a>
+
+::: {style="font-size: 20px"}
+<a href="https://commons.wikimedia.org/wiki/File:Sustainable_Development_Goal_04QualityEducation.svg"> *United Nations*</a>, Public domain, via Wikimedia Commons</span>
+
+:::
+:::
+:::
+:::
+
+
+##
+#### Acknowledgement
+::: {style="font-size: 24px"}
+The studies presented in this talk was collaborated with my awesome colleagues Drs Şen, Kaplan Can, Cengizoğlu (left), and my PhD co-advisor, Prof Teksöz (right).
+:::
+::: {.columns}
+:::: {.column width="50%"}
+![](img/ef-102.jpg)
+::::
+
+:::: {.column width="50%"}
+![](img/teksoz-demirci.jpg)
+::::
+:::
+
+
+##
+### References
+::: {style="font-size: 16px"}
+Bourn, D., & Soysal, N. (2021). Transformative learning and pedagogical approaches in education for sustainable development: Are initial teacher education programmes in England and Turkey ready for creating agents of change for sustainability?. Sustainability, 13(16), 8973.
+
+Cockerell, E. (2020). Sustainable development within primary teacher education in Finland: an analysis of university level teacher education.
+
+Council of Higher Education (2018). Öğretmen Yetiştirme Lisans Programları [Teacher Education Undergraduate Programmes]. Retrieved June 01, 2023 from https://www.yok.gov.tr/kurumsal/idari-birimler/egitim-ogretim-dairesi/yeni-ogretmen-yetistirme-lisans-programlari
+
+Demirci, S., Kaplan, G., Cengizoglu, S., & Sen, M. (2017). Pre-service teachers’ Understandings of sustainability based on ontological entities. [Paper presentation]. 26th International Conference on Educational Sciences, Antalya, Turkey
+
+Demirci, S. & Teksöz, G. (2017). Self-Efficacy beliefs on integrating sustainability into profession and daily life: in the words of university students. International Electronic Journal of Environmental Education, 7(2), 116-133.
+
+Ferguson, T., & Roofe, C. G. (2020). SDG 4 in higher education: Challenges and opportunities. International Journal of Sustainability in Higher Education, 21(5), 959-975.Merriam, S. B., & Tisdell, E. J. (2015). Qualitative research: A guide to design and implementation. John Wiley & Sons.
+
+TEDMEM (2021). 20. Millî Eğitim Şûrası konularına ilişkin görüş ve öneriler [Remarks and Recommendations on the themes of the 20th National Education Council] (TEDMEM Güncel Yayınlar Dizisi 6). Türk Eğitim Derneği. ISBN: 978-605-74377-1-6. 
+
+Tuncer, G. (2008). University students' perception on sustainable development: A case study from Turkey. International Research in Geographical and Environmental Education, 17(3), 212-226.
+
+Tuncer, G., & Sahin, E. (2016). Message in a bottle: what shapes university students’ understanding of sustainability?. International Research in Geographical and Environmental Education, 25(4), 294-308.
+:::

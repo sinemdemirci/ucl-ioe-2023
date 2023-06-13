@@ -1,1 +1,3 @@
-# ucl-ioe-2023
+# Pre-service Teachers' Understanding of Sustainability: Exploring Ontological Entities and Self-efficacy Beliefs on Integrating Sustainability into Teaching
+
+This presentation was delivered at the UCL ZJU Project Symposium on June 14, 2023, where I shared two research findings conducted in a public university in Türkiye. The purpose of these studies was to gain insights into pre-service teachers' perspectives on sustainability, specifically focusing on their (1) understanding of sustainability based on ontological entities and (2) self-efficacy beliefs regarding the integration of sustainability into their teaching and daily lives. Additionally, the presentation examined the extent to which teachers comprehend the personal and professional implications of SDG 4.7 and SDG 16.
