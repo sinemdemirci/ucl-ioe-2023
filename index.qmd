@@ -79,7 +79,7 @@ In this talk, I will be briefly talking about
 - The aim of these studies can be summarized as following:
   - assess pre service teachers’ knowledge of sustainability
   - explore pre-service teachers’ self-efficacy beliefs on integrating sustainability into their profession and daily lives.
-- Data is collected from a public university in Ankara, capital city of Türkiye.
+- Data was collected from a public university in Ankara, capital city of Türkiye.
 
 :::
 :::
@@ -222,8 +222,8 @@ The sustainability courses available in the Faculty of Education were as followi
 ::: {style="font-size: 18px"}
 
 
-| ITEM                                                                                                        |Disagree           | Neutral | Agree     |
-| :-------------------------------------------------------------------------------------------------          | :---------------: | :-----: | :-------: |
+| ITEM                                                                                                        |Disagree (%)          | Neutral (%) | Agree (%)   |
+| :-------------------------------------------------------------------------------------------------          | :------------: | :-----: | :-------: |
 | I can always find better ways to explain sustainability to other people.                                    |   15.38           |  15.38  |   69.23   |
 | **I have skills and knowledge that would allow me to explain sustainability concepts to people.**           |**15.38**          |**23.08**| **61.54** |
 | I can always find better ways to integrate sustainability in my daily life.                                 |   15.38           |  23.08  |   61.53   |
@@ -239,7 +239,7 @@ The sustainability courses available in the Faculty of Education were as followi
 ##
 ### Pre-service Teachers' Self-Efficacy Beliefs - Profession
 ::: {style="font-size: 18px"}
-| ITEM                                                                                                                                  | Disagree | Neutral | Agree   |
+| ITEM                                                                                                                                  | Disagree (%) | Neutral (%) | Agree (%) |
 | :-----------------------------------------------------------------------------------------------------------------                    | :------: | :-----: | :-----: |
 | I know the necessary steps to include the sustainability context into my profession effectively.                                      |  15.38   |  23.08  |  61.54  |
 | **I can always find better ways to integrate sustainability into my profession.**                                                     | **7.69** |**30.77**|**61.54**|
